@@ -1,0 +1,26 @@
+﻿# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.log
+
+# Publish output
+*.publish.xml
+*.Publish.xml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# SQLite database file (Remove '#' if you want to upload DB)
+*.db
+
+# Secret config files (if any)
+appsettings.Development.json
